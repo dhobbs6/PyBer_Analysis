@@ -1,14 +1,14 @@
 # PyBer_Analysis
 
-##Overview of the analysis
+## **Overview of the analysis**
 
 This assignment aims to create a summary DataFrame of the ride-sharing data by city type. Then create a multiple-line graph that shows the total weekly fares for each city type. Lastly, summarize how the data differs by city type and how decision-makers can use those differences at PyBer. 
 
-##Results
+## **Results**
 
 When looking at the “Total Fare By City Type” graph we can see that Urban makes the most money. Urban living would be the city, so this actually makes sense given that cities tend to have a lot more people than rural or suburban areas. 
 	
-##Summary
+## **Summary**
 
 1- Deploy more drivers to Urban cities to keep up with the demand. The data shows that they have the highest ridership demand when compared to the other city types. 
 
